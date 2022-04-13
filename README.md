@@ -1,6 +1,6 @@
 <h1 align="center">Aplikasi Text Recognition (Client)</h1>
 
-<p align="justify">Ini adalah aplikasi client sederhana dari implementasi project <a href="https://github.com/haxorsprogramming/ComputerVisionTextServer">Computer Vision Text Recognition Project</a>, dimana server tersebut dapat digunakan untuk mengola proses recognition pada file gambar, yang dapat membaca/analisa tulisan/font yang ada pada gambar. Dapat digunakan untuk berbagai keperluan, identifikasi KTP, SIM, Kartu Pengenal, Hasil Ujian, Dll
+<p align="justify">Ini adalah aplikasi client sederhana dari implementasi project <a href="https://github.com/haxorsprogramming/ComputerVisionTextServer">Computer Vision Text Recognition Project</a>, dimana server tersebut dapat digunakan untuk mengola proses recognition pada file gambar, yang dapat membaca/analisa tulisan/font yang ada pada gambar. Dapat digunakan untuk berbagai keperluan, identifikasi KTP, SIM, Kartu Pengenal, Hasil Ujian, Dll. Aplikasi ini menggunakan object storage sebagai media penyimpanan, untuk itu harap persiapkan object storage (S3 compatible) untuk dapat menjalankan sistem ini.
 </p>
 
 <br/>
