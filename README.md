@@ -28,3 +28,6 @@ Jalankan aplikasi di browser
 <img src="https://s3.jagoanstorage.com/aditia-ss-storage-3561/TEXT_RECOGNITION_SERVER/1.png">
 
 <img src="https://s3.jagoanstorage.com/aditia-ss-storage-3561/TEXT_RECOGNITION_SERVER/2.png">
+
+
+Jika terdapat kendala dapat membuat issue di repo ini atau email ke alditha.forum@gmail.com, kami bersedia melakukan setup dengan biaya seikhlasnya ... 
