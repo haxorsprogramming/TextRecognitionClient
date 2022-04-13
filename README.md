@@ -20,6 +20,7 @@
 - ACCESS_KEY = Access key S3 object storage
 - SECRET_KEY = Secret key S3 object storage
 - ENDPOINT_SERVER = Endpoint server untuk Textrecoginition server (point pertama)
+- Jika tidak memiliki akun azure & s3 object storage kami menyediakan akun & object storage tersebut (berbayar), silahkah hubungi kontak dibawah untuk informasinya. 
 
 
 Jalankan aplikasi di browser
